@@ -1,0 +1,11 @@
+init.deafaultbranch=main
+init.defaultbranch=main
+user.email=wplcodex@gmail.com
+user.name=nituwpl
+user.pass=Six*six=36
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://ghp_RtX1WnPOkEJLNSti810pbgc7AvVvF003onGr@github.com/nituwpl/Live.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
